@@ -1,18 +1,20 @@
 {
-"data"
+"data" :
   [
+    {
     "berita" : "Ryan Pradpta",
     "deskripsi" : "rich boi koko",
     "gambar" : "https://www.asianews.it/files/img//1520138130163.jpg"
-  ],
-  [
+    },
+    {
     "berita" : "Wildan",
     "deskripsi" : "rich boi koko 2",
-    "gambar" : "https://www.asianews.it/files/img//1520138130163.jpg"
-  ],
-   [
+    "gambar" : "https://www.asianews.it/files/img//1520138130163.jpg" 
+    },
+    {   
     "berita" : "Sonia",
     "deskripsi" : "rich gurl cici",
     "gambar" : "https://www.asianews.it/files/img//1520138130163.jpg"
+    }
   ]
 }
