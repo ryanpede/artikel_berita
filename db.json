@@ -1,20 +1,19 @@
 {
-"data" :
-  [
+  "data" : [
     {
-    "berita" : "Ryan Pradpta",
-    "deskripsi" : "rich boi koko",
-    "gambar" : "https://www.asianews.it/files/img//1520138130163.jpg"
+      "title" : "Maling di jalan sudirman",
+      "description" : "Maling mengambil uang sebanyak 500rb dari indomaret",
+      "thumbnail" : "https://sekilasmedia.com/wp-content/uploads/2019/08/IMG-20190821-WA0021.jpg"
     },
     {
-    "berita" : "Wildan",
-    "deskripsi" : "rich boi koko 2",
-    "gambar" : "https://www.asianews.it/files/img//1520138130163.jpg" 
+      "title" : "Sedekah luar biasa dari Ryan",
+      "description" : "Ryan memberi duit sebanyak 5 miliar",
+      "thumbnail" : "https://awsimages.detik.net.id/community/media/visual/2019/09/12/fabdfe88-7bf1-48c4-8c3a-e8cf3d3abe8e_169.jpeg?w=700&q=90"
     },
-    {   
-    "berita" : "Sonia",
-    "deskripsi" : "rich gurl cici",
-    "gambar" : "https://www.asianews.it/files/img//1520138130163.jpg"
+    {
+      "title" : "Sedekah luar biasa dari Sonia",
+      "description" : "Sonia memberi duit sebanyak 10 miliar",
+      "thumbnail" : "https://awsimages.detik.net.id/community/media/visual/2019/09/12/fabdfe88-7bf1-48c4-8c3a-e8cf3d3abe8e_169.jpeg?w=700&q=90"
     }
   ]
 }
